@@ -1,0 +1,16 @@
+{
+    "remote_addr": "172.18.0.1",
+    "remote_user": "",
+    "http_user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "host": "localhost",
+    "hostname": "605701da20f0",
+    "request": "GET / HTTP/1.1",
+    "request_method": "GET",
+    "request_uri": "/",
+    "status": "200",
+    "time_iso8601": "2025-05-28T21:47:42+00:00",
+    "time_local": "28/May/2025:21:47:42 +0000",
+    "uri": "/index.html",
+    "http_referer": "",
+    "body_bytes_sent": "615"
+}
